@@ -1,10 +1,10 @@
-﻿{
+{
   "iisSettings": {
-    "windowsAuthentication": false, 
-    "anonymousAuthentication": true, 
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:53432",
-      "sslPort": 44335
+      "applicationUrl": "http://localhost:62469/",
+      "sslPort": 0
     }
   },
   "profiles": {
@@ -15,10 +15,10 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "Modelo.UI.MVC": {
+    "Gentelella2": {
       "commandName": "Project",
       "launchBrowser": true,
-      "applicationUrl": "https://localhost:5001;http://localhost:5000",
+      "launchUrl": "http://localhost:5000",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
